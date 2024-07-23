@@ -1,4 +1,5 @@
 ## Hi there 👋, I'm Francisco Monge
+---
 - 🎓 Final year student at the Tecnológico de Costa Rica (TEC) 
 - 📫 How to reach me: mongefranciscojose@gmail.com
 
